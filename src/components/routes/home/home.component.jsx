@@ -18,7 +18,6 @@ const categories =[
     id: 3,
     title: 'Sneakers',
     imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
-
   },
   {
     id: 4,
